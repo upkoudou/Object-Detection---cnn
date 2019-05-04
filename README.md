@@ -7,4 +7,4 @@ no longer be the case because scientists, researchers & devloppers are working t
 
 I have a serie on Medium https://medium.com/data-science-demystified , helping everyone to understand data science tools, goals and all the big buzz words arround the topic.
 
-For now we will focus on Object recognition, which a subset of Computer vision (I am a big fan).
+For now we will focus on Object recognition, which a subset of Computer vision.
