@@ -1,5 +1,5 @@
-import tensorflow 
-from tensorflow import
+import tensorflow as tf
+from tensorflow import keras
 from imageai.Detection import ObjectDetection
 import sys
 import os
