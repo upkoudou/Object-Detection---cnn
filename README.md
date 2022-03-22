@@ -1,4 +1,4 @@
-# Object recognition 
+# Object recognition - convolutional neural network
 
 Hello guys, 
 
